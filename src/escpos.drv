@@ -79,7 +79,7 @@ MediaSize w216h72
 MediaSize w216h90
 MediaSize w216h144
 MediaSize w216h216
-MediaSize w216h360
+*MediaSize w216h360
 MediaSize w234h144
 MediaSize w234h360
 MediaSize w234h396
@@ -95,7 +95,7 @@ MediaSize w288h468
 MediaSize w288h936
 MediaSize w284h425 
 MediaSize w162h842
-*MediaSize w226h842
+MediaSize w226h842
 
 
 
