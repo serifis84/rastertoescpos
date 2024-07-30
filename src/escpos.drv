@@ -55,6 +55,7 @@ Filter application/vnd.cups-raster 50 rastertoescpos
 
 // Media Sizes common to all the printers
 HWMargins 0 0 0 0 
+*MediaSize A7
 MediaSize w90h18
 MediaSize w90h162
 MediaSize w108h18
@@ -79,7 +80,7 @@ MediaSize w216h72
 MediaSize w216h90
 MediaSize w216h144
 MediaSize w216h216
-*MediaSize w216h360
+MediaSize w216h360
 MediaSize w234h144
 MediaSize w234h360
 MediaSize w234h396
